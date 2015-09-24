@@ -1,0 +1,16 @@
+.qst-answer {
+	display: block;
+	cursor: pointer;
+	width: 100%;
+	padding: 10px;
+	background-color: #C8C8C8;
+}
+
+.qst-answer.active {
+	background-color: #CCE58A;
+}
+
+.qst-answer input[type="checkbox"] {
+	display: inline-block;
+	margin-right: 10px;
+}
