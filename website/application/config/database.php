@@ -61,16 +61,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $active_group = 'default';
 $query_builder = TRUE;
+$dbhost = getenv("OPENSHIFT_MYSQL_DB_HOST");
+$dbuser = getenv("OPENSHIFT_MYSQL_DB_USERNAME");
+$dbpassword = getenv("OPENSHIFT_MYSQL_DB_PASSWORD");
+$db_name = $_ENV['OPENSHIFT_APP_NAME'];
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'questionnaire',
-	'dbdriver' => 'mysqli',
+	'hostname' => $dbhost,
+	'username' => $dbuser,
+	'password' => $dbpassword,
+	'database' => $db_name,
+	'dbdriver' => 'mysql',
 	'dbprefix' => '',
-	'pconnect' => FALSE,
+	'pconnect' => TRUE,
 	'db_debug' => TRUE,
 	'cache_on' => FALSE,
 	'cachedir' => '',
