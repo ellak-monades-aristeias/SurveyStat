@@ -11,7 +11,10 @@
 
 3) εφαρμογή mobile για άμεση χρήση της υπηρεσίας
 
+[README_DEVELOPERS.md](README_DEVELOPERS.md)
 
+[README_USERS.md](README_USERS.md)
+# ΠΑΡΑΔΟΤΕΑ
 
 | Παραδοτέο | Σύντομη περιγραφή | URL |
 | ------------- |:-------------:| -----:|
@@ -25,3 +28,4 @@
 | | Δημιουργία πηγαίου κώδικα για αυτόματη επιλογή αποστολής του βιογραφικού σημειώματος σε διεύθυνση ηλεκτρονικού  ταχυδρομείου | https://github.com/ellak-monades-aristeias/SocialCVBuilder/blob/master/backend-web-server/index.php | 
 | | Οδηγίες (documentation): |  | 
 | | Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App | 
+
