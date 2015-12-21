@@ -15,8 +15,9 @@
 
 [README_USERS.md](README_USERS.md)
 
-## Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers) ##
-...εδώ περιγράφετε τους δυνητικούς τελικούς χρήστες του έργου σας και τις κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο σας. ...
+## Σε ποίους απευθύνεται##
+ - Κοινότητες Χρηστών
+ - Προγραμματιστών(Developers) 
 
  
 # ΠΑΡΑΔΟΤΕΑ
@@ -44,10 +45,8 @@ The application for the creation of research consists of the following parts:
 
 3) mobile application for immediate use of the service
 
-README_DEVELOPERS.md
 
-README_USERS.md
+Addressed 
+- Communities Users
+- Programmers (Developers)
 
-Addressed - Communities Users - Programmers (Developers)
-
-... here you describe your potential work of end-users and communities of users / developers who would be interested to extend your work. ...
