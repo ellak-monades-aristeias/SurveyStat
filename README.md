@@ -34,3 +34,20 @@
 | | Οδηγίες (documentation): |  | 
 | | Αποθήκευση της εφαρμογής σε πακέτα εγκατάστασης για iPhone και Android συσκευές | https://github.com/ellak-monades-aristeias/SocialCVBuilder/wiki/Building-The-App | 
 
+DESCRIPTION IN ENGLISH
+SurveyStat
+The application for the creation of research consists of the following parts:
+
+1) Backend web service page user to complete the investigation: Page creator for creating the research: http://ellaksurvey-projects1.rhcloud.com Page administrator to show results:
+
+2) Backend database: http://ellaksurvey-projects1.rhcloud.com/phpmyadmin
+
+3) mobile application for immediate use of the service
+
+README_DEVELOPERS.md
+
+README_USERS.md
+
+Addressed - Communities Users - Programmers (Developers)
+
+... here you describe your potential work of end-users and communities of users / developers who would be interested to extend your work. ...
